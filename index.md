@@ -1,27 +1,18 @@
-# Zachary's Homework 0
+# Zachary's First CS193 Homework
 
 
-### Markdown
+## Some Things I Like About 193
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- The Lectures
+- My Professor
+- That it only meets once a _week_
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
